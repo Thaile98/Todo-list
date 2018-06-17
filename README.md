@@ -8,7 +8,7 @@ Thực hiện bởi [Lê Văn Thái](https://github.com/Thaile98)
 
 ## Liên kết
 
-- Đề bài: https://docs.google.com/spreadsheets/d/1AcPRWhkGZsbpEEnysr7i6qq9YZHvAOyGe_X_DFYu2TE/edit#gid=0
+- Đề bài: https://docs.google.com/spreadsheets/d/1ar80XJA8GLDy6pvL7yOzjp9ykJ1vjxq2jqwMiqxa9s8/edit?ts=5af8fb0d#gid=1914531595
           http://todomvc.com/examples/jquery/#/all
 
 - Bài làm: 
