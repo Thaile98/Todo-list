@@ -1,6 +1,6 @@
 # Bài tập Trainee Colombo 2018
 
-## Todolist-KHANHLQ
+## Todolist-Thaile
 
 Tạo một phiên bản to do list cơ bản.
 
