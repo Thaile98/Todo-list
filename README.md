@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# abc
-=======
 # Bài tập Trainee Colombo 2018
 
 ## Todolist-Thaile
