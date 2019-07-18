@@ -1,3 +1,13 @@
+@font-face {
+  font-family: SVN;
+  src:url('../fonts/SVN-Harabaras.ttf');
+  font-weight:normal;
+  font-style:normal;
+}
+body {
+  font-family: SVN !important;
+  letter-spacing: 1px;
+}
 a {
   text-decoration: none;
   color: #389cd7;
